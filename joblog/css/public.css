@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+
+*{
+    box-sizing: border-box;
+}
+html,body,div,ul,li,p,input,a,button,h2,fieldset,p,h1,h2,h3,h4,h5,h6,nav,main{
+    margin:0;padding:0;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    text-rendering: optimizeLegibility;
+    font-smoothing: antialiased;
+    font-family: "Helvetica Neue","Hiragino Sans GB","Microsoft YaHei","\9ED1\4F53",Arial,sans-serif;
+    font-size: 14px;
+    letter-spacing: .2px;
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+section,article,header,footer,nav{
+    display: block;
+}
+ul,li{list-style:none;}
+li {
+    display: list-item;
+}
+ol{
+    display: block;
+    list-style-type: decimal;
+}
+input{outline:none;}
+a{color:#353535;text-decoration: none;cursor: auto;outline: none;font-size: 16px;}
+a:focus, a:hover {
+    text-decoration: none;
+    color: #353535;
+}
+a.webLink{
+    color: rgb(19, 109, 186)
+}
+body{
+    font-family: '微软雅黑';
+    font-size: 16px;
+    line-height: 1.5;
+    color:#333;
+    min-width: 1200px;
+}
+/*清除浮动*/
+.clearfix:before,.clearfix:after{
+    content: "";
+    display: table;
+}
+.clearfix:after{clear:both;}
+
+.fl{float: left;}
+.fr{float: right;}
