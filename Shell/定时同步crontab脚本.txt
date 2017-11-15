@@ -1,10 +1,10 @@
-#客户端
+﻿#客户端
 0 1 * * * /usr/bin/rsync -vzrtopg --progress --delete fsdeploy@10.168.76.248::Nginx-4-node /data/webapp/Nginx-4/node/ --password-file=/etc/rsync.pas
 #Nginx-4-node 服务器自定义服务名称
 # --delete 本地可以删除更新 
 #--password-file 自定义存放的路径
 
-#服务端rsync.conf配置
+#服务端rsync.conf配置，端口为873
 log file = /var/rsyncd.log #服务端rsync日志存储路径
 pid file = /var/rsyncd.pid #服务端rsync的PID
 lock file = /var/rsyncd.lock
