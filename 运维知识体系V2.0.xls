@@ -1,0 +1,1108 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2017-11-06T15:34:03</o:Created>
+     <o:LastAuthor>Administrator</o:LastAuthor>
+     <o:LastSaved>2017-11-07T15:43:32</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">2052-10.1.0.6930</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:18.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:14.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font4
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font9
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font11
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font15
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font16
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font17
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"常规";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \\¥* \#\,\#\#0_ \;_ \\¥* \\-\#\,\#\#0_ \;_ \\¥* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"货币[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"输入";}
+.style19
+	{mso-number-format:"_ \\¥* \#\,\#\#0\.00_ \;_ \\¥* \\-\#\,\#\#0\.00_ \;_ \\¥* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"货币";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"千位分隔[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"差";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"千位分隔";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"超链接";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"百分比";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:宋体;
+	mso-style-name:"已访问的超链接";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"注释";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	mso-style-name:"标题 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"警告文本";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	mso-style-name:"标题";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"解释性文本";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"标题 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"标题 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"输出";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"计算";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"检查单元格";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"链接单元格";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"汇总";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"好";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"适中";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"20% - 强调文字颜色 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"强调文字颜色 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"40% - 强调文字颜色 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:0;
+	mso-style-name:"60% - 强调文字颜色 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:宋体;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	font-size:18.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+.xl66
+	{mso-style-parent:style0;
+	white-space:normal;
+	font-size:14.0pt;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>iuxVzNz1</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>270</x:DefaultRowHeight>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>1</x:ActiveCol>
+          <x:ActiveRow>43</x:ActiveRow>
+          <x:RangeSelection>B44:C44</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
+     <x:WindowHeight>8370</x:WindowHeight>
+     <x:WindowWidth>20385</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="1612" border="0" cellpadding="0" cellspacing="0" style='width:1209.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="107" style='mso-width-source:userset;mso-width-alt:3424;'/>
+   <col width="100" style='mso-width-source:userset;mso-width-alt:3200;'/>
+   <col width="132" style='mso-width-source:userset;mso-width-alt:4224;'/>
+   <col width="818" style='mso-width-source:userset;mso-width-alt:26176;'/>
+   <col width="171" style='mso-width-source:userset;mso-width-alt:5472;'/>
+   <col width="153" style='mso-width-source:userset;mso-width-alt:4896;'/>
+   <col width="131" style='mso-width-source:userset;mso-width-alt:4192;'/>
+   <tr height="37.27" style='height:27.95pt;mso-height-source:userset;mso-height-alt:559;'>
+    <td class="xl65" height="37.27" width="1612" colspan="7" style='height:27.95pt;width:1209.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维知识体系-V2.0 By 周力</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="27" colspan="3" style='height:20.25pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维架构层级/运维角度</td>
+    <td class="xl66" x:str>内容描述/主要技术关键词</td>
+    <td class="xl66" x:str>监控体系</td>
+    <td class="xl66" x:str>自动化/DevOps</td>
+    <td class="xl66" x:str>云计算</td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl66" height="144" rowspan="4" style='height:108.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>客户端层</td>
+    <td class="xl66" colspan="2" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>浏览器</td>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>Cookie、浏览器缓存协商（Last-Modified、Expires、Etag）、组件分离、前端优化、运维检测工具</td>
+    <td class="xl66" rowspan="6" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>舆论监控<font class="font2"><br/></font><font class="font2">外部网络监控</font><font class="font2"><br/></font><font class="font2">APM</font><font class="font2"><br/></font></td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>故障检测工具</td>
+    <td class="xl66" rowspan="6" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>DNS服务<font class="font2"><br/></font><font class="font2">CDN服务</font><font class="font2"><br/></font><font class="font2">移动服务</font><font class="font2"><br/></font><font class="font2">云盾</font></td>
+   </tr>
+   <tr height="32" style='height:24.00pt;mso-height-source:userset;mso-height-alt:480;'/>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>DNS</td>
+    <td class="xl66" x:str>浏览器DNS缓存、DNS缓存、自建DNS服务器、商业DNS产品、智能DNS、公共DNS（BGP anycast）、bind+DLZ/DPDK</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>客户端/APP</td>
+    <td class="xl66" x:str>HTTP-DNS、打点日志、加密传输、移动推送、各类SDK（监控SDK、推流SDK等）</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" height="108" rowspan="2" style='height:81.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>外部层</td>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>第三方CDN</td>
+    <td class="xl66" x:str>GSLB、反向代理缓存、分布式存储、流量调度、配置管理、用户端（各类API如：带宽监控、预缓存、缓存刷新）</td>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>基于开放API开发</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>云计算</td>
+    <td class="xl66" x:str>公有云服务、混合云、运维外包服务、APM（应用性能管理）、第三方安全解决方案（防DDOS、WAF）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="152" rowspan="5" style='height:114.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>网络层</td>
+    <td class="xl66" colspan="2" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>互联层</td>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>多机房互联（VPN、专线）、异地灾备--&gt;异地多活--&gt;按SET部署</td>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>设备监控<font class="font2"><br/></font><font class="font2">（Zabbix SNMP）</font><font class="font2"><br/></font><font class="font2">网络质量监控</font><font class="font2"><br/></font><font class="font2">（Smokeping）</font></td>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>SDN<font class="font2"><br/></font><font class="font2">OpenvSwitch</font><font class="font2"><br/></font><font class="font2">（GRE、Vxlan）</font></td>
+    <td class="xl66" x:str>高速通道</td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>VPC（专有网络）</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>核心层</td>
+    <td class="xl66" x:str>防火墙、路由器、Ipsec VPN、链路负载均衡和高可用 （CCNP级别）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>汇聚层</td>
+    <td class="xl66" x:str>三层交换 动态路由（OSPF）、静态路由、EC（端口汇聚）、MSTP+VRRP等 （CCNP级别）</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>接入层</td>
+    <td class="xl66" x:str>二层交换 （VTP、SPF、Trunk、端口安全）等 （CCNA级别）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="121" rowspan="3" style='height:90.75pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>接入层</td>
+    <td class="xl66" x:str>负载均衡</td>
+    <td class="xl66" x:str>四层负载均衡</td>
+    <td class="xl66" x:str>开源：LVS（IP负载均衡）+Keepalived、Haproxy 商业：F5、Netscaler</td>
+    <td class="xl66" rowspan="3" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>服务监控（API）</td>
+    <td class="xl66" rowspan="3" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>平台开发<font class="font2"><br/></font><font class="font2">（LBaas）</font></td>
+    <td class="xl66" rowspan="3" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>高防IP<font class="font2"><br/></font><font class="font2">云负载均衡SLB</font><font class="font2"><br/></font><font class="font2">CDN服务</font></td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>高可用</td>
+    <td class="xl66" x:str>七层负载均衡</td>
+    <td class="xl66" x:str>反向代理：Haproxy、Nginx、Apache（根据HTTP协议支持的属性进行L7分发）、A/B Test Gateway、WAF</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>反向代理缓存</td>
+    <td class="xl66" x:str>ATS、Squid、Varnish、Nginx(缓存分级、预缓存、缓存刷新）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="297" rowspan="8" style='height:222.75pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>应用服务层</td>
+    <td class="xl66" colspan="2" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>Web服务层</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>HTTP协议、Web服务器（Apache、Nginx/OpenResty、Tomcat、Resin、Jboss）安全设置、性能优化</td>
+    <td class="xl66" rowspan="8" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>业务监控(API)<font class="font2"><br/></font><font class="font2">流量分析(Piwik)</font><font class="font2"><br/></font><font class="font2">服务监控(API)</font><font class="font2"><br/></font><font class="font2">安全监控(WAF)</font></td>
+    <td class="xl66" rowspan="8" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>配置管理：SaltStack<font class="font2"><br/></font><font class="font2">过载保护-服务降级</font><font class="font2"><br/></font><font class="font2">灰度发布-openresty</font><font class="font2"><br/></font><font class="font2">项目管理-Readmine</font><font class="font2"><br/></font><font class="font2">代码仓库-gitlab</font><font class="font2"><br/></font><font class="font2">持续集成-Jenkins</font><font class="font2"><br/></font><font class="font2">持续审查-SonarQube</font></td>
+    <td class="xl66" x:str>镜像市场</td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>各种SAAS服务</td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'/>
+   <tr height="18" style='height:13.50pt;'/>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>应用服务层</td>
+    <td class="xl66" x:str>运行环境（PHP Python Java C C++）、性能优化、缓存（OPCache、LocalCache）、Session存储、代码部署</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>业务层</td>
+    <td class="xl66" x:str>业务实现</td>
+    <td class="xl66" x:str>API网关、302调度、业务模块化（电商例：用户、商品、购物车、结算中心、价格等服务）、微服务</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>服务层</td>
+    <td class="xl66" x:str>SOA框架（Dubbo）、微服务框架（Spring Cloud）、协议（RPC、RESTful）、框架安全、应用性能监控</td>
+    <td class="xl66" x:str>分布式应用服务</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>分布式层</td>
+    <td class="xl66" x:str>消息队列</td>
+    <td class="xl66" x:str>ActiveMQ（成熟）、RabbitMQ（成熟、案例多）、RocketMQ（业务应用）、Kafka（日志传输）、ZeroMQ（快）</td>
+    <td class="xl66" x:str>消息队列服务</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" height="430" rowspan="10" style='height:322.50pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>存储层</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>文件存储</td>
+    <td class="xl66" x:str>单机存储</td>
+    <td class="xl66" x:str>块存储 - 机械硬盘、SSD、文件系统（ext4、xfs）、LVM、tmpfs</td>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>系统监控<font class="font2"><br/></font><font class="font2">软件自带监控</font></td>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>配置管理</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>云硬盘 对象存储</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" x:str>单机存储扩展</td>
+    <td class="xl66" x:str>文件分发（多级分发）、文件同步（rsync、inotify）、DRBD、DAS（块存储）</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" x:str>共享存储</td>
+    <td class="xl66" x:str>文件存储 - NAS[NFS（Unix/Linux）]、FTP、SAN、iSCSI</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" x:str>分布式存储</td>
+    <td class="xl66" x:str>对象存储 - GlusterFS、MooseFS、Ceph、FastDFS（非对象存储）</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>DAL</td>
+    <td class="xl66" x:str>数据访问层</td>
+    <td class="xl66" x:str>应用层分片、淘宝TDDL、开源：360（Atlas）、阿里（Cobar）、MyCat、MySQL-Proxy、根据业务开发</td>
+    <td class="xl66" x:str>数据库服务</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>数据存储</td>
+    <td class="xl66" x:str>分布式缓存</td>
+    <td class="xl66" x:str>Memcached、Redis（客户端分片、Redis Cluster、Twemproxy、Codis）</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>数据库监控</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>数据库运维平台</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>云数据库-RDS<font class="font2"><br/></font><font class="font2">Mongodb、Redis</font><font class="font2"><br/></font><font class="font2">Memcached</font><font class="font2"><br/></font><font class="font2">OceanBase</font></td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>NoSQL</td>
+    <td class="xl66" x:str>Redis、LevelDB（SSDB）、CouchDB、Mongodb、Couchbase 、Cassandra、TiDB（支持MySQL协议）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" x:str>时间序列</td>
+    <td class="xl66" x:str>RRDTool、Graphite Whisper、OpenTSDB、InfluxDB、KairosDB、ElasticSearch</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>RDBMS</td>
+    <td class="xl66" x:str>MySQL（PXC集群、MHA）、Oracle（DG、OGG、RAC）、PostgreSQL、SqlServer、SQLite、DB2</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" x:str>大数据</td>
+    <td class="xl66" x:str>Hadoop生态圈（HDFS、Hive、Hbase、Zookeeper、Pig、Spark、Impala、Kudu）、Mahout智能推荐</td>
+    <td class="xl66" x:str>服务监控</td>
+    <td class="xl66" x:str>Ambari、CM</td>
+    <td class="xl66" x:str>大数据服务</td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl66" height="189" rowspan="6" style='height:141.75pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>基础服务层</td>
+    <td class="xl66" colspan="2" rowspan="3" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>业务决策</td>
+    <td class="xl66" rowspan="3" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>灰度发布、服务降级、异地灾备、数据分析平台、智能扩容决策树（需要各层支持）</td>
+    <td class="xl66" rowspan="6" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>监控工具：<font class="font2"><br/></font><font class="font2">Zabbix</font><font class="font2"><br/></font><font class="font2">Nagios</font><font class="font2"><br/></font><font class="font2">Cacti</font><font class="font2"><br/></font><font class="font2">Open-Falcon</font><font class="font2"><br/></font><font class="font2">Sensu</font></td>
+    <td class="xl66" rowspan="6" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>自动化工具<font class="font2"><br/></font><font class="font2">（Puppet</font><font class="font2"><br/></font><font class="font2">Chef</font><font class="font2"><br/></font><font class="font2">SaltStack</font><font class="font2"><br/></font><font class="font2">Ansible）</font></td>
+    <td class="xl66" rowspan="6" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>日志服务<font class="font2"><br/></font><font class="font2">操作审计</font><font class="font2"><br/></font><font class="font2">资源编排</font><font class="font2"><br/></font><font class="font2">运维监控服务</font><font class="font2"><br/></font><font class="font2">持续交付系统</font></td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'/>
+   <tr height="18" style='height:13.50pt;'/>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维相关</td>
+    <td class="xl66" x:str>项目管理（Redmine、Jira、知识库、Bugzilla、CodeReview）、工单系统、运维操作平台、监控平台</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>应用相关</td>
+    <td class="xl66" x:str>持续集成、日志收集平台（ELKStack）、自动化部署平台、Job管理（调度）平台、安全扫描平台</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>系统相关</td>
+    <td class="xl66" x:str>LDAP、内部DNS、DHCP、Mail、SMS、Gitlab、Yum仓库、操作审计（xenapp）、堡垒机</td>
+   </tr>
+   <tr height="18" style='height:13.50pt;'>
+    <td class="xl66" height="126.33" rowspan="4" style='height:94.75pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>容器层</td>
+    <td class="xl66" colspan="2" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>容器编排</td>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>Mesos（Marathon、Chronos）、Kubernetes（SKYDNS）、Docker Swarm、CoreOS（fleet）、OpenStack（Magnum）</td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>Docker Stats<font class="font2"><br/></font><font class="font2">cAdvisor</font><font class="font2"><br/></font><font class="font2">DataDog</font><font class="font2"><br/></font><font class="font2">Zabbix</font></td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>Docker Swarm<font class="font2"><br/></font><font class="font2">Mesos</font><font class="font2"><br/></font><font class="font2">Kubernetes</font></td>
+    <td class="xl66" rowspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>容器服务</td>
+   </tr>
+   <tr height="41.33" style='height:31.00pt;mso-height-source:userset;mso-height-alt:620;'/>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>容器和系统</td>
+    <td class="xl66" x:str>容器：LXC、LXD、Docker、rkt、系统：CoreOS、Atomic、RancherOS</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>网络和存储</td>
+    <td class="xl66" x:str>网络：Calico、Flanel、Weave Net 存储：Ceph 镜像管理：Docker Registry、Harbor</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" height="215" rowspan="5" style='height:161.25pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>操作系统层</td>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>CPU</td>
+    <td class="xl66" x:str>CPU运行级别、使用率、上下文切换、运行队列、进程调度、系统调用、CPU管理（进程管理、taskset、intel VT-X）</td>
+    <td class="xl66" x:str>mpstat、strace</td>
+    <td class="xl66" rowspan="5" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>虚拟化</td>
+    <td class="xl66" rowspan="8" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>公有云<font class="font2"><br/></font><font class="font2">弹性计算产品</font></td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>内存</td>
+    <td class="xl66" x:str>虚拟内存、SWAP换入换出、内存寻址、内存管理（Buffer Cache、HugePages、ksmd、EPT）</td>
+    <td class="xl66" x:str>vmstat、free</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>I/O（磁盘）</td>
+    <td class="xl66" x:str>缺页中断、IOPS（顺序IO、随机IO）、IO管理（IO调度算法、virtio）、VFS</td>
+    <td class="xl66" x:str>iostat、iotop</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>I/O（网络）</td>
+    <td class="xl66" x:str>TCP/IP（三次握手、四次挥手、状态转换、TCP队列）、IO模型、Bonding、Bridge、网络管理（iftop、tcpdump）</td>
+    <td class="xl66" x:str>iftop</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>内核/Shell</td>
+    <td class="xl66" x:str>内核定制、内存参数优化、脚本编程（AWK、Sed、Shell、Python、PHP、Perl、Ruby、Lua）</td>
+    <td class="xl66" x:str>系统监控</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="108" rowspan="3" style='height:81.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>基础设施层</td>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>IAAS(基础设施即服务)</td>
+    <td class="xl66" x:str>公有云、私有云（OpenStack/cloudstack+KVM/XEN、oVirt）、混合云</td>
+    <td class="xl66" x:str>服务监控</td>
+    <td class="xl66" x:str>配置管理</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>硬件管理</td>
+    <td class="xl66" x:str>硬件选型、配件更换、资产录入、系统安装（Cobbler）、标签化、Raid构建、远程控制（KVM、iDrac、ILO、IMM）</td>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>巡检、IPMI</td>
+    <td class="xl66" rowspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>IPMI、CMDB</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>IDC托管</td>
+    <td class="xl66" x:str>需求分析、IDC选型、网络测试、谈价格、签合同、设备采购（原厂vs渠道）、机柜和机位规划</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" height="108" rowspan="2" style='height:81.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维产品化</td>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>基于DevOps产品思路</td>
+    <td class="xl66" x:str>项目管理（类似Jira）、Bug管理、代码托管（类似Gitlab）、持续交付（类似Jenkins的构建、测试、部署）</td>
+    <td class="xl66" x:str>监控平台、看板</td>
+    <td class="xl66" x:str>软件定义数据中心</td>
+    <td class="xl66" x:str>DevOps产品</td>
+   </tr>
+   <tr height="54" style='height:40.50pt;'>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>自动化运维产品思路</td>
+    <td class="xl66" x:str>CMDB、ITSM管理系统（事件管理、问题管理、故障管理、工单系统）、作业平台、堡垒机、APM、私有云平台</td>
+    <td class="xl66" x:str>监控平台</td>
+    <td class="xl66" x:str>CI/CD系统</td>
+    <td class="xl66" x:str>运维管理产品</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="27" style='height:20.25pt;' x:str>运维服务化</td>
+    <td class="xl66" colspan="2" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>OAAS</td>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>OAAS：Operations as a Service,运维咨询、运维托管、技术培训、应急处理、产品即服务、DevOps专家服务</td>
+   </tr>
+   <tr height="40" style='height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class="xl66" height="40" colspan="3" style='height:30.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>测试和开发相关</td>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维协助：性能测试（TCPCopy、日志转换）、单机监控（nmon）、环境规划（开发、测试、预生产、生产）、CI（持续集成）、自动化部署</td>
+   </tr>
+   <tr height="54.67" style='height:41.00pt;mso-height-source:userset;mso-height-alt:820;'>
+    <td class="xl66" height="54.67" colspan="3" style='height:41.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维管理体系</td>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维管理必会：ITSM、ITIL V3、IT Service CMM、Six Sigma、DevOps Master、项目管理（PMBok）、架构层面（知识体系、运维方案、容量规划、灾备规划、服务降级）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="27" colspan="3" style='height:20.25pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维发展趋势（个人理解）</td>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>打杂（小公司啥都干）-&gt;分层（应用运维、系统运维、基础运维、运维开发等）-&gt;场景化（分业务）-&gt;自动化（最终大家的目标都是自动化）</td>
+   </tr>
+   <tr height="54.67" style='height:41.00pt;mso-height-source:userset;mso-height-alt:820;'>
+    <td class="xl66" height="54.67" colspan="3" style='height:41.00pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>运维自动化发展趋势（个人理解）</td>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>标准化（文档化、流程化）-&gt;工具化（流程固化为工具）-&gt;Web化（平台化）-&gt;服务化（API化）-&gt;智能化（自动化）-&gt;产品化（服务化，云服务、运维创业）</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" height="54" colspan="3" rowspan="2" style='height:40.50pt;border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>备注：</td>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>1.本表格只体现和运维相关的内容；2.表格没有严格意义上的层级关系；3.持续更新中，由于每个层次内容多，只例举比较出名（重要/开源）的关键词；</td>
+   </tr>
+   <tr height="27" style='height:20.25pt;'>
+    <td class="xl66" colspan="4" style='border-right:.5pt solid windowtext;border-bottom:.5pt solid windowtext;' x:str>4.运维人员要给自己划好知识边界！（横向|纵向）</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="107" style='width:80;'></td>
+     <td width="100" style='width:75;'></td>
+     <td width="132" style='width:99;'></td>
+     <td width="818" style='width:614;'></td>
+     <td width="171" style='width:128;'></td>
+     <td width="153" style='width:115;'></td>
+     <td width="131" style='width:98;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
