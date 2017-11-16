@@ -1,7 +1,6 @@
 docker run -d  -e TZ="Asia/Shanghai"  --name Nginx-1-fish-api --restart=always  -p 51000:51000 -v /data/webapp/java/ce/:/usr/src/myapp -v /data/log/ce:/data/log  -v /etc/localtime:/etc/localtime:ro  -w /usr/src/myapp  daocloud.io/library/java:openjdk-8u40 java  -jar fish-api.jar
 #关键点:
-#1.时间同步，需要时区和时间同步
-#①-e TZ="Asia/Shanghai"② -v /etc/localtime:/etc/localtime:ro
+#1.时间同步，需要时区和时间同步-e TZ="Asia/Shanghai"以及-v /etc/localtime:/etc/localtime:ro
 #2.进入项目的绝对路径
 #-w /usr/src/myapp
 #3.随着docker服务而自启动的参数
