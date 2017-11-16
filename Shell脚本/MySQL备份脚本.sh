@@ -9,9 +9,13 @@ schema_file_name=db_content.online.$date.schema.sql
 data_file_name=db_content.online.$date.data.sql
 
 db_host_online=XX
+#链接数据库地址
 db_online=XX
+#链接数据库名称
 db_user_online=XX
+#链接数据库账号
 db_passwd_online=XX
+#链接数据库密码
 
 
 #online database backup
